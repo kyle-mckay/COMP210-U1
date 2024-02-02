@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /readme/
+---
+
 # COMP210 Project 1 - A Terminology Website
 
 > Kyle Birch McKay
