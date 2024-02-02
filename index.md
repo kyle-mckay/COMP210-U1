@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /readme/
+permalink: /
 ---
 
 # COMP210 Project 1 - A Terminology Website
