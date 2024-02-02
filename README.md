@@ -1,4 +1,15 @@
-# A Terminology Website
+# COMP210 Project 1 - A Terminology Website
+
+> Kyle Birch McKay
+
+Hello, welcome to this page! The main page acts as a method of navigation, as well as another way to overview the project requirements.
+
+If you would like to view one of the topics, you can select one of the links below, or check out the requirements further down this page.
+- [Basic Terms](./terms.md)
+- [Key Concepts](./concepts.md)
+- [Trends](./trends.md)
+
+## Project Requirements
 
 >This page includes instructions for Unit 1 Portfolio Project and a link (below the instructions) to submit the project for assessment.
 
