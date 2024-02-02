@@ -7,6 +7,7 @@
 **Due**: after Unit 1
 
 Create a website glossary for basic computer concepts, terms, and trends.
+
 1\. This project involves creating a website to discuss course content. You may do this either by hand coding a simple site using basic HTML code or by using one of the many free online web building/hosting services.
 
 If you wish to hand code, you should first work through the introductory exercise in the [HTML tutorial](https://learning.athabascau.ca/content/enforced/12488-co_COMP210_R9/Content/03_StudyGuide/03_Documents/HTML_PRIMER.doc?isCourseFile=true&ou=12488)  and achieve a sound level of competence in creating, editing, and formatting content in a simple website, including the ability to add new content pages and link content pages to the main page in both directions.
