@@ -4,15 +4,15 @@
 
 ## iPad Ordering Systems
 
-> Source: Page 7
+> Source: Page 7 "Technology and You"
 
 ## Tiny PCs
 
-> Source: Page 18
+> Source: Page 18 "Tiny PCs"
 
 ## Tech Clothing
 
-> Source: Page 20
+> Source: Page 20 "Inside the Industry"
 
 <div>
     <img src="./img/tech clothing.png" alt="tech clothing example" width="200"/>
