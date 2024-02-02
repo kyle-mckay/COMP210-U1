@@ -2,6 +2,6 @@
 - [About](/desc.md)
 
 **Content**
-- [Terms](/terms.md)
-- [Concepts](concepts.md)
-- [Trends](/trends.md)
+- [20 Basic Terms](/terms.md)
+- [5 Key Concepts](concepts.md)
+- [3 Trends](/trends.md)
