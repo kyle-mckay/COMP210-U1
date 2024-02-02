@@ -1,5 +1,3 @@
 - [Terms](/terms.md)
-- [Trends](/trends.md)
 - [Concepts](concepts.md)
-- [About](/desc.md)
-- [Home](/)
+- [Trends](/trends.md)
