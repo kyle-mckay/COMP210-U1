@@ -1,6 +1,6 @@
 # 3 Trends
 
-> All trends are direct from the course textbook, "Understanding Computers in a Changing Society,  6th Edition" by Deborah Morley. Each section will reference a specific page from within as the source.
+> All trends are direct from the course textbook, "Understanding Computers in a Changing Society,  6th Edition" by Deborah Morley. Each section will reference a specific page from within as the source and include word for word details from the textbook explaining the trend.
 
 ## iPad Ordering Systems
 
