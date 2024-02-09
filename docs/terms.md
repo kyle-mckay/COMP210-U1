@@ -1,6 +1,6 @@
 # 20 Basic Terms
 
-> All terms are direct from the course textbook, "Understanding Computers in a Changing Society,  6th Edition" by Deborah Morley. After each term follows the letter "P" for page then the page number.
+All terms are direct from the course textbook, "Understanding Computers in a Changing Society,  6th Edition" by Deborah Morley. After each term follows the letter "P" for page then the page number.
 
 1. **Computer Literacy**, *P4* - The knowledge and understanding of basic computer fundamentals.
 2. **Computer**, *P8* - A programmable, electronic device that accepts data input, performs processing operations on that data, and outputs and stores the results.
@@ -19,6 +19,17 @@
 15. **Mobile device**, *P18* - A very small device that has built-in computing or Internet capability. 
 16. **Smartphone**, *P18* - A mobile device based on a mobile phone that includes Internet capabilities and can run mobile apps. 
 17. **Media tablet**, *P18* - A mobile device, usually larger than a smartphone, that is typically used to access the Internet and display multimedia content.
-18. **Personal computer (PC)**, *P19* - A type of computer based on a microprocessor and designed to be used by one person at a time; also called a **microcomputer**. 
-19. **Desktop computer**, *P19* - A personal computer designed to fit on or next to a desk.
-20. **Netbook**, *P21* - A computer that is smaller and has more limited features than a notebook computer.
+18. **Personal computer (PC)**, *P19* - A type of computer based on a microprocessor and designed to be used by one person at a time; also called a **microcomputer**.
+19. **Uniform Resource Locators (URLs)**, *P28*
+
+## Emergency Notification Systems
+
+> Page 30
+
+## 
+
+> Page 28
+
+## IP Addresses and Domain Names
+
+> Page 28
