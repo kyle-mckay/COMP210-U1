@@ -1,16 +1,16 @@
 # 3 Trends
 
-> All trends are direct from the course textbook, "Understanding Computers in a Changing Society,  6th Edition" by Deborah Morley. Each section will reference a specific page from within as the source and my own interpretation of each trend.
+All trends are direct from the course textbook, "Understanding Computers in a Changing Society,  6th Edition" by Deborah Morley. Each section will reference a specific page from within as the source and my own interpretation of each trend.
 
 ## iPad Ordering Systems
 
 > Source: Page 7 "Technology and You"
 
-iPads are already known for being convenient replacements in the resturant industry, allowing your server to take your order from the tablet or even being used as a Point of Sale device. This lead to the question "If staff can take customers orders from the iPad, why can't the customer place the order themselves?". Well this has become a lot more common place! Having an ordering system loading up on the tablet allows the customer to potentially see and do so much more with the menu such as see ingredients/allergens, add/remove specific ingredients from the order, order additional items without needing to call a server, translate the menu into different languages, the list goes on.
+iPads are already known for being convenient replacements in the restaurant industry, allowing your server to take your order from the tablet or even being used as a Point of Sale device. This lead to the question "If staff can take customers orders from the iPad, why can't the customer place the order themselves?". Well this has become a lot more common place! Having an ordering system loading up on the tablet allows the customer to potentially see and do so much more with the menu such as see ingredients/allergens, add/remove specific ingredients from the order, order additional items without needing to call a server, translate the menu into different languages, the list goes on.
 
 <img src="./img/emenu.png" alt="iPad Ordering System Example" width="400"/>
 
-All those customization options allow the resturant to put less effort into constantly checking up on their patrions.Instead they have the understanding that if they need something the e-menu does not provide, then they can just call a server from the tablet. All those conveniences aside, this new system introduces the need for additional infrastructure considerations; consistent internet connection, redundancies for data if the internet is down, and "technologically challenged" customers are common things that need to be accounted for.
+All those customization options allow the restaurant to put less effort into constantly checking up on their patrons. Instead they have the understanding that if they need something the e-menu does not provide, then they can just call a server from the tablet. All those conveniences aside, this new system introduces the need for additional infrastructure considerations; consistent internet connection, redundancies for data if the internet is down, and "technologically challenged" customers are common things that need to be accounted for.
 
 ## Tiny PCs
 
@@ -26,7 +26,7 @@ At the start, Tiny PCs such as these fell into a fairly niche market. However, a
 
 > Source: Page 20 "Inside the Industry"
 
-One rising trend from the late 19th and early 21st century was "Tech Clothing". Put simply, Tech Clothing was clothing designed with the accessability and security of your personal portable devices in mind. Like backpacks with hidden channels for wired headphones, or laptop sleeves; these particular garments were equipt with numerous pockets, channels and sleeves. This includes space for cell phones, portable media players, tablets and any number of portable mobile device you can think of. If you are on the go with any combination of these (or more), Tech Clothing may just be a trend that is (or was) for you!
+One rising trend from the late 19th and early 21st century was "Tech Clothing". Put simply, Tech Clothing was clothing designed with the accessibility and security of your personal portable devices in mind. Like backpacks with hidden channels for wired headphones, or laptop sleeves; these particular garments were equipped with numerous pockets, channels and sleeves. This includes space for cell phones, portable media players, tablets and any number of portable mobile device you can think of. If you are on the go with any combination of these (or more), Tech Clothing may just be a trend that is (or was) for you!
 
 <img src="./img/tech clothing.png" alt="Tech Clothing Example" width="400"/>
 
